@@ -1,4 +1,4 @@
-import{g as e,v as t}from"../chunks/CpzfC3IM.js";import"../chunks/v_jBEYI6.js";var n=t(`<div class="frame svelte-1l7r4q6"><div class="header svelte-1l7r4q6"><a href="/" class="back svelte-1l7r4q6">&lt; back</a> <span>// legal</span></div> <div class="content svelte-1l7r4q6"><section><h2 class="svelte-1l7r4q6">Disclaimer</h2> <p class="svelte-1l7r4q6">This website is a personal project. All content is provided for informational and
+import{_ as e,h as t}from"../chunks/Caw68x-A.js";import"../chunks/Cfug8aQt.js";var n=e(`<div class="frame svelte-1l7r4q6"><div class="header svelte-1l7r4q6"><a href="/" class="back svelte-1l7r4q6">&lt; back</a> <span>// legal</span></div> <div class="content svelte-1l7r4q6"><section><h2 class="svelte-1l7r4q6">Disclaimer</h2> <p class="svelte-1l7r4q6">This website is a personal project. All content is provided for informational and
 				entertainment purposes only. Nothing here constitutes professional advice of any kind —
 				legal, financial, medical, or otherwise.</p></section> <section><h2 class="svelte-1l7r4q6">No Warranty</h2> <p class="svelte-1l7r4q6">This site is provided "as is" without any warranty, express or implied. I make no
 				representations about the accuracy, completeness, or suitability of any content. Use at your
@@ -10,4 +10,4 @@ import{g as e,v as t}from"../chunks/CpzfC3IM.js";import"../chunks/v_jBEYI6.js";v
 				references are for personal, non-commercial use. Third-party trademarks and images belong to
 				their respective owners.</p></section> <section><h2 class="svelte-1l7r4q6">Changes</h2> <p class="svelte-1l7r4q6">This disclaimer may be updated at any time without notice. Continued use of the site
 				constitutes acceptance of any changes. Opinions constituted here do not represent my
-				employer.</p></section></div></div>`);function r(t){e(t,n())}export{r as component};
+				employer.</p></section></div></div>`);function r(e){t(e,n())}export{r as component};
