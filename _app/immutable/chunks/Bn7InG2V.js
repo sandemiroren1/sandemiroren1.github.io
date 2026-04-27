@@ -1,4 +1,4 @@
-import{W as e}from"./Caw68x-A.js";var t=e({default:()=>n}),n=`---
+import{Y as e}from"./CpzfC3IM.js";var t=e({default:()=>n}),n=`---
 title: The beginning
 date: 2026-04-26
 ---
