@@ -1,6 +1,6 @@
 import{W as e}from"./jh0OCD2W.js";var t=e({default:()=>n}),n=`---
 title: The beginning
-date: 2026-04-26
+date: 2026-04-25
 ---
 # Hello World
 On this date, with a little bit of a hangover, I finally got myself to making this website.
