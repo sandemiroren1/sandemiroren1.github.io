@@ -1,4 +1,4 @@
-import{W as e}from"./jh0OCD2W.js";var t=e({default:()=>n}),n=`---
+import{Y as e}from"./C4_TrgNx.js";var t=e({default:()=>n}),n=`---
 title: Teacher's Pet; The worst application you have never heard of. 
 date: 2026-04-27
 ---
