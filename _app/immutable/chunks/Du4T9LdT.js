@@ -1,4 +1,4 @@
-import{Y as e}from"./C4_TrgNx.js";var t=e({default:()=>n}),n=`---
+import{W as e}from"./jh0OCD2W.js";var t=e({default:()=>n}),n=`---
 title: Teacher's Pet; The worst application you have never heard of. 
 date: 2026-04-27
 ---
@@ -87,13 +87,13 @@ class SortbyGrade:
   def opensorted():
     ...
 \`\`\`
-You might notice that I had forgor to add a parent class for these but thats fine. And then I'd just pass around these objects and simply call \`.opensorted()\`. Its not that bad if don't consider the fact that these bad boys also did database operations and made GUI elements pop-up (Dependency injection wasn't living on the same planet as me yet). While some people may call this piece of code "hot garbage", an 80$ book may call this code that I did the "Strategy Design Pattern". It's up to you to decide.
+You might notice that I had forgor to add a parent class for these but thats fine. An then I'd just pass around these objects and simply call \`.opensorted()\`. Its not that bad if don't consider the fact that these bad boys also did database operations and made GUI elements pop-up (Dependency injection wasn't living on the same planet as me yet). While some people may call this piece of code "hot garbage", an 80$ book may call this code that I did the "Strategy Design Pattern". It's up to you to decide.
 
 ## Concluding
 I will not mention the remaining roster of fundamental problems with this project as I want to keep this file short(certainly wasn't a habit back then I cana tell you that for free). I want to take a little bit of time reflecting. 
 
 
-I am happy that I can look back at myself and say "hehe, that guy what an idiot". I hope that I can look back to myself in the future and again see through all the stupid things I am probably doing, because If this isn't the case, that means I am still the very same idiot.
+I am happy that I can look back at myself and say "hehe, that guy what an idiot". I hope that I can look back to myself in the feature and again see through all the stupid things I am probably doing, because If this isn't the case, that means I am still the very same idiot.
 
 
 I am happy AI didn't exit when I was working on this. The end product would have probably been better but I wouldn't experience why some programming conventions exist (I remember getting a light bulb moment when I finally learned what polymorphism was and how useful it would have been for my app).
