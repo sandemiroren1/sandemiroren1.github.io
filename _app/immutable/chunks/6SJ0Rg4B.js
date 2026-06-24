@@ -1,0 +1,1 @@
+import{O as e,_ as t,c as n,h as r,w as i}from"./jh0OCD2W.js";import"./v_jBEYI6.js";var a={date:`2026-06-24T00:00:00.000Z`,title:`Toy dataset`},o=t(`<p>Hello</p>`);function s(t){var a=o();n(`1sib2qw`,t=>{i(()=>{e.title=`Toy dataset`})}),r(t,a)}export{s as default,a as metadata};

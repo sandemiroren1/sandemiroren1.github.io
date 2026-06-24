@@ -1,1 +1,0 @@
-import{_ as e,h as t}from"./jh0OCD2W.js";import"./v_jBEYI6.js";var n=e(`<p>Hello</p>`);function r(e){t(e,n())}export{r as default};
