@@ -3,8 +3,14 @@ title: My own dataset to test image classification models
 date: 2026-06-24
 ---
 
+
 # Control-dataset
 *Assignment for Fundamental Research in Machine and Deep Learning course at TU Delft*
+
+
+**Disclaimer: The full dataset was too big to upload but you can create it exactly by running the code in the Github. A sample of 1000 datapoints has also been provided in the repository**
+
+
 
 While designing a dataset I wanted to ensure that the property it is testing was interesting, but not extremely niche. Hence, I decided that I wanted to design a dataset based on a simple rule, but a rule which has interesting implications. I wanted to test how the models would change their classification, when there was perhaps another object of interest, hiding subtly in the image...
 
@@ -36,7 +42,7 @@ Furthermore, these examples are usually created adversarially and are mostly arb
 
 By overlaying two images on top of each other at differing opacity rates, the dataset tests the extent that the model can get distracted from the more dominant object. The dataset features images created with low $\\alpha$ values in which the features of the non-dominant object are more subtle. This tests if the model gets "distracted" easily from the dominant object in the picture if a small motif of another object is present. Which, as mentioned already seemed to provide results in [1]. Moreover, the dataset also provides harder examples with the use of $\\alpha=0.3,0.5$ which should also test the models behaviour when the non-dominant object's features are more prominent. All of these can give valueable insight to a model's tendancy to get distracted or to recognize the object thats more prominent, which can have interesting applications in robustness research.
 ### What is inside the box
-Here I detail how I created the dataset and then give examples from it. The full code and the dataset can be found in: https://github.com/sandemiroren1/control-dataset.
+Here I detail how I created the dataset and then give examples from it. The full code and the dataset can be found in: https://github.com/sandemiroren1/control-dataset. To recreate the dataset you must run the code but a sample of a 1000 images has been provided.
 
 ### Creation
 The dataset was created using images from  [ImageNette](https://github.com/fastai/imagenette). Given an $\\alpha$ my code picks out two random images from ImageNette and then blends them, using *Equation 1*. The resulting data point is 5-tuple that consists of: 
