@@ -77,6 +77,9 @@ The dataset also provides harder examples as it can be seen in *Figure 3*. In bo
 In conclusion, in this post I provide a dataset that can be used to test a model's ability to correctly distinguish the main object in an image when there is a picture of another object subtly overlayed on the image. This dataset was created by using images from a well-known source and then combining pairs from them into one image. This provides a different glance at the robustness of an image classification model in a scenario in which there are subtle features of an object other than the object that should be recognized. My dataset fills a unique gap in the existing literature and dataset has 120,000 images that have varying degrees of subtlety in how they overlay the features of the other image. I also provide the code for the dataset so that any similar dataset can be created.
 
 
+### AI DISCLOSURE
+
+AI such as CLAUDE and CHATGPT was used only as a coding assistant or as a brainstorming tool and was not used to replace critical thinking or decision making.
 
 
 
