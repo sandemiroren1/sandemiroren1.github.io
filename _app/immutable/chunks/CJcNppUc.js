@@ -3,7 +3,6 @@ title: My own dataset to test image classification models
 date: 2026-06-24
 ---
 
-
 # Control-dataset
 *Assignment for Fundamental Research in Machine and Deep Learning course at TU Delft*
 
